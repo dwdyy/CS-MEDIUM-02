@@ -255,7 +255,7 @@ PointFixedNum PointFixedNum_Dec(PointFixedNum a,PointFixedNum b){
 
 考虑乘法
 
-考虑一个小数 $1.23$ ,我们乘了$10^{32}$
+考虑一个小数 $1.23$ ,我们乘了 $10^{32}$
 
 所以 $1.23 = 1 * {10^{32}} + 2 * 10^{31} + 3 * 10^{30}$ 
 
